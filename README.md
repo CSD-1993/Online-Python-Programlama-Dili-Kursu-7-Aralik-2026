@@ -10,7 +10,7 @@
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Kursu-20-Ekim-2025/blob/main/_kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Kursu-20-Ekim-2025/blob/main/kurs_icerigi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Kursu-7-Aralik-2026/blob/main/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Kursu-20-Ekim-2025/blob/main/sss.md)
 + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/lLIKRf-ETGO862JB_IVP6w#/registration)
 
