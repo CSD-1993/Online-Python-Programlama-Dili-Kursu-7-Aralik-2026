@@ -24,7 +24,7 @@ Daha önce herhangi bir programlama dili ile çalışmış olmak.
 
 ## Kurs Süresi
 
-+ Eğitim Süresi __160__ Saattir.
++ Eğitim Süresi __120__ Saattir.
 
 ## Ders Saatleri
 
