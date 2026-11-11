@@ -12,7 +12,7 @@ Aşağıda __Kaan Aslan__ tarafından verilen __Online Python Programlama Dili K
 + Kesin kayıt yaptıran tüm öğrencilerimiz yapılan dersin kaydını ileteceğimiz VIMEO bağlantısı üzerinden izleyebilirler.
 
 ### 230 saatlik bir kurs süresi çok uzun değil mi?
-+ Eğitim içeriği göz önüne alındığında `230` saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
++ Eğitim içeriği göz önüne alındığında `180` saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
 + Tabi ki. 
