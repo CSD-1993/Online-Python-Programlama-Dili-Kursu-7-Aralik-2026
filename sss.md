@@ -11,8 +11,8 @@ Aşağıda __Kaan Aslan__ tarafından verilen __Online Python Programlama Dili K
 ### Kaçırdığım dersler olursa nasıl telafi edebilirim?
 + Kesin kayıt yaptıran tüm öğrencilerimiz yapılan dersin kaydını ileteceğimiz VIMEO bağlantısı üzerinden izleyebilirler.
 
-### 120 saatlik bir kurs süresi çok uzun değil mi?
-+ Eğitim içeriği göz önüne alındığında `120` saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
+### 160 saatlik bir kurs süresi çok uzun değil mi?
++ Eğitim içeriği göz önüne alındığında `160` saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
 + Tabi ki. 
