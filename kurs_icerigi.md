@@ -1,4 +1,4 @@
-# Online Python Programlama Dili Kursu (120 saat)
+# Online Python Programlama Dili Kursu (160 saat)
 
 * __Temel Kavramlar__
   * Programlama Dillerinin Tarihsel Gelişimi
